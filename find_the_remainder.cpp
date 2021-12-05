@@ -40,3 +40,12 @@ int main() {
 
 	return 0;
 }
+
+
+//output :
+/*  
+1
+100
+10
+*/
+

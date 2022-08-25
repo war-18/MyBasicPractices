@@ -1,21 +1,13 @@
-# MyBasicPractices
-<h4>
-  Write a program to find the remainder when an integer A is divided by an integer B.
-Input
-The first line contains an integer T, the total number of test cases. Then T lines follow, each line contains two Integers A and B.
-Output
-For each test case, find the remainder when A is divided by B, and display it in a new line.
-Constraints
-1 ≤ T ≤ 1000
-1 ≤ A,B ≤ 10000
-Example
-Input
-3 
-1 2
-100 200
-40 15
-Output
-1
-100
-10
-  </h3>
+Contact         gauravsuryvanshi06@gmail.com
+Date            2022-08-24
+URL             https://google.com/
+Script          https://github.com/lukegre/fetch-data (0.2.5.2)
+
+
+Data Preparation
+----------------
+Data has been downloaded directly from the server shown in URL. There has been
+no modification to the original files. There may be a data cache located in the
+destination folder.   This README.txt file was automatically created while
+downloading data using the ``fetch_data.download`` function. For more info see
+https://github.com/lukegre/fetch-data

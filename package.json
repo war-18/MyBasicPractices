@@ -1,0 +1,26 @@
+{
+  "name": "all-activity-vs-code",
+  "version": "1.0.0",
+  "description": "All-Activity-Vs-Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-5256/All-Activity-Vs-Code.git"
+  },
+  "author": "G-5256",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-5256/All-Activity-Vs-Code/issues"
+  },
+  "homepage": "https://github.com/G-5256/All-Activity-Vs-Code#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.10.0"
+  },
+  "devDependencies": {}
+}
